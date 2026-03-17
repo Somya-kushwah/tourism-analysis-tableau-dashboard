@@ -23,5 +23,4 @@ This project analyzes global tourism data from 2022 to 2024 using Tableau.
 ## 📁 Files Included
 - Tableau Dashboard (.twbx)
 - Dataset (.csv)
-- Project Report
 - Flowchart & Images
